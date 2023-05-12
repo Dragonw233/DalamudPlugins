@@ -1,1 +1,58 @@
-
+[
+    {
+        "Author": "Infi",
+        "Name": "Submarine Tracker",
+        "Punchline": "Simple Submarine Tracker and Builder",
+        "Description": "Simple and Easy\n+ Tracks current builds, routes and times\n+ Loot overview for each FC \n+ Builder to improve your builds\n+ Save and load builds\n+ Optimized EXP calculator for the selected build\n+ Unlockable exploration points are highlighted\n+ Breakpoint support\n+ Configurable notification for returning subs\n+ + Helper with lots of useful information\n+ Support for multiple FCs",
+        "InternalName": "SubmarineTracker",
+        "AssemblyVersion": "1.2.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Submarines",
+            "Tracker",
+            "Builder",
+            "Plugins",
+            "Loot",
+            "Optimizer",
+            "Notifications",
+            "Helper"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/SubmarineTracker/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/SubmarineTracker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/SubmarineTracker/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1683922901"
+    },
+    {
+        "Author": "Infi, electr0sheep",
+        "Name": "Eureka Linker",
+        "Punchline": "Notify and Pop",
+        "Description": "Automatically notifies you about NMs in Eureka, with the ability to pop them on a tracker.\nOther Features:\n- Fairy Finder\n- Bunny Timer Window\n- Bunny Coffer Helper\n- Stats\n- Quest Guide (clickable coords)\n- - Localized (DE, FR, JA)",
+        "InternalName": "EurekaTrackerAutoPopper",
+        "AssemblyVersion": "1.4.0.0",
+        "RepoUrl": "https://github.com/Infiziert90/EurekaTrackerAutoPopper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Plugin",
+            "Eureka",
+            "Tracker",
+            "Quest",
+            "Elemental",
+            "Fairy",
+            "Bunny"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/EurekaTrackerAutoPopper/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/EurekaTrackerAutoPopper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/EurekaTrackerAutoPopper/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1683922901"
+    }
+]
