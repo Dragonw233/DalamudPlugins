@@ -1,5 +1,27 @@
 [
     {
+        "Author": "FPC-PM",
+        "Name": "NameplateSignResizer",
+        "Punchline": "\u81ea\u5b9a\u4e49\u94ed\u724c\u6807\u6807\u8bb0\u3002",
+        "Description": "\u8c03\u6574\u5927\u5c0f\uff0c\u91cd\u65b0\u5b9a\u4f4d\uff0c\u6216\u5b8c\u5168\u9690\u85cf\u73a9\u5bb6\u94ed\u724c\u6807\u8bb0\uff01",
+        "InternalName": "NameplateSignResizer",
+        "AssemblyVersion": "1.0.6.0",
+        "RepoUrl": "https://github.com/FPC-PM/NameplateSignResizer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1685861916"
+    },
+    {
         "Author": "Infi",
         "Name": "Submarine Tracker",
         "Punchline": "Simple Submarine Tracker and Builder",
@@ -25,7 +47,7 @@
         "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/SubmarineTracker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/SubmarineTracker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683923613"
+        "LastUpdate": "1685861916"
     },
     {
         "Author": "Infi, electr0sheep",
@@ -53,6 +75,6 @@
         "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/EurekaTrackerAutoPopper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/EurekaTrackerAutoPopper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683923613"
+        "LastUpdate": "1685861916"
     }
 ]
