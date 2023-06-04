@@ -1,0 +1,19 @@
+{
+  "Author": "FPC-PM",
+  "Name": "NameplateSignResizer",
+  "InternalName": "NameplateSignResizer",
+  "AssemblyVersion": "1.0.6.0",
+  "Description": "调整大小，重新定位，或完全隐藏玩家铭牌标记！",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/FPC-PM/NameplateSignResizer",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自定义铭牌标标记。",
+  "AcceptsFeedback": true
+}
