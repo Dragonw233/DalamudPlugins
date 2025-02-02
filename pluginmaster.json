@@ -13,11 +13,11 @@
         ],
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/NameplateSignResizer/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1730224818"
     },
@@ -40,12 +40,30 @@
             "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
             "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
         ],
-        "DownloadLinkInstall": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/AutoDuty/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDuty/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/AutoDuty/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/MisaUo/DalamudPlugins/raw/main/plugins/AutoDuty/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDuty/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDuty/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1730224818"
+    },
+    {
+      "Author": "Dragonw233",
+      "Name": "SkyEye",
+      "Punchline": "Eureka优雷卡雷达",
+      "Description": "优雷卡雷达、兔子宝箱定位、图内加速",
+      "InternalName": "SkyEye",
+      "AssemblyVersion": "7.0.1.0",
+      "RepoUrl": "https://github.com/Dragonw233/SkyEye",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 10,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 1234567890,
+      "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/SkyEye/latest.zip"
     }
-]
+  ]
