@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "Author": "FPC-PM",
         "Name": "NameplateSignResizer",
@@ -50,9 +50,9 @@
     },
     {
         "Author": "0x,Dragonw233",
-        "Name": "?ulk??",
-        "Punchline": "???????",
-        "Description": "???NM??(???????)???????(?????)????????????-?????",
+        "Name": "ulk雷达",
+        "Punchline": "ulk雷达",
+        "Description": "NM雷达(登！)  兔子位置显示(人人有金宝箱！)文理敏捷(边上无人时自带文理敏捷，仙道敏捷)",
         "InternalName": "SkyEye",
         "AssemblyVersion": "7.0.1.0",
         "RepoUrl": "https://github.com/Dragonw233/SkyEye",
