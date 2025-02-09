@@ -64,4 +64,32 @@
         "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/SkyEye/latest.zip"
     }
+     {
+        "Author": "Liza Carvelli",
+        "Name": "Questionable",
+        "InternalName": "Questionable",
+        "AssemblyVersion": "3.13",
+        "Description": "自动主线，请确保你安装了这三个插件并启用！！！ vnavmesh(寻路), TextAdvance(跳过动画等), Lifestream（快速传送）",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://git.carvel.li/liza/Questionable",
+        "Tags": [
+            "quests",
+            "msq"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://plugins.carvel.li/icons/Questionable.png",
+        "Punchline": "A tiny quest helper plugin.",
+        "AcceptsFeedback": false,
+        "DownloadCount": 55492,
+        "LastUpdate": 1730669290,
+        "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Questionable/Questionable_Install.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/store/carvel/Questionable_Update.zip",
+        "Changelog": "v3.13 (2024-11-03)\n- Add initial set up window to check if all required plugins are enabled\n- Add notifications for when manual interactions are required\n- Add HW DRG quests, thanks to AnimaMachinae\n- Add (partial) SB MCH quests, thanks to UcanPatates\n- Add new Kojin daily quests, thanks to plogon_enjoyer\n- Add Loporrit daily quests, thanks to pot0to\n- Add 'Gilding the Bilious' (GC Aurum Vale quests)\n- Add 'Braving New Depths' (Sunken Temple of Quarn)\n- Add a missing NieR weekly quest\n- Adjust jump timings in a few Mare Lamentorum quests\n- Adjust some flying waypoints in Mare Lamentorum\n- Adjust NPC follow distances in 'Scales of Blue' to hopefully fix a low-fps issue\n- Fix some issues in THM quests added in v3.12\n- Use modfiied pathfinding position when trying to fly from the Camp Dragonhead aetheryte to avoid navmesh trying to pathfind underground\n\nv3.12 (2024-10-24)\n- Add Ninja job quests, thanks to xan\n- Add Rogue class quests\n- Add Thaumaturge class quests, thanks to pot0to\n- Add Amalj'aa, Kojin and Vanu Vanu quests, thanks to plogon_enjoyer\n- Add Vath, Vanu Vanu and Loporrit quests, thanks to AnimaMachinae\n- Add Loporrit and Omicron quests, thanks to pot0to\n- Add more supported emotes\n- Add NIN actions and skip conditions for NIN quests\n- Add missing event quest config for All Saints Wake\n\nv3.11 (2024-10-18)\n- Add All Saints Wake quests\n- Add Doman Adventurer's Guild/Doman Reconstruction starting quests\n- Add dialogue choices for 'In from the Cold' & 'A Sleep Disturbed'\n- Add Omicron daily quest, thanks to pot0to\n- Experimentally handle item use in 'Strange Bedfellows', 'Petalouda Hunt' & 'With Folded Hands'\n\nv3.10 (2024-10-12)\n- Add Endwalker Hildibrand quests\n- Add Garlemald side quests, thanks to goatzone\n- Add AST class quests, thanks to kaiser\n- Add Margrat reputation quest, thanks to kaiser\n- Fix Yaana's Yarn, thanks to kaiser\n- Fix 'Taking Stock' where RSR refuses to attack quest enemies\n- Add delay to chat messages in 'Unto the Truth'\n- Hide some 'ActionManager' info in quest window\n- Make Comment field mandatory for manual interaction steps to make it clear what you're supposed to do\n- Copying quest file names removes illegal path characters (e.g. `:`)\n- Minor quest path updates\n\nv3.9 (2024-10-05)\n- Add Heavensward and Stormblood Hildibrand quests\n- Automatically configure TextAdvance with recommended settings, thanks to Limiana\n- Show validation errors in journal window\n- Minor Endwalker path adjustments",
+        "IsHide": false,
+        "IsTestingExclusive": false
+    }
 ]
