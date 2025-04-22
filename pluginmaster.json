@@ -57,7 +57,7 @@
         "AssemblyVersion": "7.0.1.0",
         "RepoUrl": "https://github.com/Dragonw233/SkyEye",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
