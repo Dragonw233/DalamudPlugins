@@ -7,10 +7,10 @@
   "IsThirdParty": true,
   "EffectiveVersion": "7.1.5.2",
   "EffectiveApiLevel": 12,
-  "Author": "Latihas，Dragonw233",
+  "Author": "Latihas",
   "Name": "SkyEye",
   "Punchline": "ULK工具",
-  "Description": "改版SkyEye，随缘更新维护",
+  "Description": "改版SkyEye",
   "Changelog": null,
   "Tags": null,
   "CategoryTags": null,
@@ -39,4 +39,5 @@
   "FeedbackMessage": null,
   "_Dip17Channel": null
 }
+
 
