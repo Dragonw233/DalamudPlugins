@@ -112,4 +112,33 @@
     "DownloadLinkTesting": "https://github.com/Dragonw233/XTeleport/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Dragonw233/XTeleport/releases/latest/download/latest.zip"
   }
+  {
+  "Author": "Rose , Tabris",
+  "Name": "Olympus",
+  "Punchline": "智能职业循环助手",
+  "Description": "Olympus: 智能 FFXIV 职业助手，支持时间轴预测、队伍协作、性能分析和训练模式。国服（卫月）适配版本。",
+  "InternalName": "Olympus",
+  "AssemblyVersion": "4.17.2.0",
+  "RepoUrl": "https://github.com/Dragonw233/Olympus",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "rotation",
+    "combat",
+    "healer",
+    "tank",
+    "dps",
+    "国服",
+    "卫月"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/RoseOfficial/Olympus/main/icon.png",
+  "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Olympus/latest.zip",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Olympus/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Olympus/latest.zip",
+  "DownloadCount": 0,
+  "LastUpdate": "1719840000"
+}
 ]
