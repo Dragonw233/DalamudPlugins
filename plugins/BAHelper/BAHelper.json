@@ -2,7 +2,7 @@
   "Author": "iVeigar",
   "Name": "兵武塔助手",
   "InternalName": "BAHelper",
-  "AssemblyVersion": "7.50.0.0",
+  "AssemblyVersion": "7.50.1.0",
   "Description": "提供了一些攻略兵武塔时解放大脑和双手的功能：\n - 门图\n - 监控附近玩家状态\n - 一键检查队员补正数值\n - 自动上双盾\n - 扫雷助手、找一查箱子\n - 画出怪物仇恨范围",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/iVeigar/BAHelper",
@@ -22,6 +22,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/iVeigar/MyDalamudPlugins/master/plugins/BAHelper/images/icon.png",
   "Punchline": "让兵武塔车头和功能位轻松一点点",
-  "Changelog": "update api15; 有待测试是否可用，此次更新仅保证能加载",
+  "Changelog": "新增玩家高亮筛选、缺魔盾提示与文理调试日志探针；豪杰层数来源待继续确认",
   "AcceptsFeedback": true
 }
