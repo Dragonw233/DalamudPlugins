@@ -31,9 +31,9 @@
     "Name": "兵武塔助手",
     "Punchline": "让兵武塔车头和功能位轻松一点点",
     "Description": "提供了一些攻略兵武塔时解放大脑和双手的功能：\n - 门图\n - 监控附近玩家状态\n - 一键检查队员补正数值\n - 自动上双盾\n - 扫雷助手、找一查箱子\n - 画出怪物仇恨范围",
-    "Changelog": "新增玩家高亮筛选、缺魔盾提示与文理调试日志探针；豪杰层数来源待继续确认",
+    "Changelog": "豪杰高亮尝试读取体力增加1763显示层数；调试日志同步输出到游戏聊天框",
     "InternalName": "BAHelper",
-    "AssemblyVersion": "7.50.1.0",
+    "AssemblyVersion": "7.50.2.0",
     "RepoUrl": "https://github.com/iVeigar/BAHelper",
     "ApplicableVersion": "any",
     "Tags": [
@@ -51,7 +51,7 @@
     "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/BAHelper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/BAHelper/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1783168143"
+    "LastUpdate": "1783169096"
   },
   {
     "Author": "FPC-PM",
