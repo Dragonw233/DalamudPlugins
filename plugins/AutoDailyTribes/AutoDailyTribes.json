@@ -1,0 +1,25 @@
+{
+  "Author": "XeldarAlz,Tabris",
+  "Name": "Auto Daily Tribes CN",
+  "InternalName": "AutoDailyTribes",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "自动帮你完成每日盟族任务：勾选蛮族，插件搞定剩下的事。国服汉化版。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
+  "Tags": [
+    "Beast Tribes",
+    "Auto Daily Tribes",
+    "Daily Quests",
+    "Automation",
+    "国服",
+    "汉化"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Dragonw233/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
+  "Punchline": "自动完成每日蛮族任务",
+  "AcceptsFeedback": true
+}

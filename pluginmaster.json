@@ -167,5 +167,33 @@
   "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/Olympus/latest.zip",
   "DownloadCount": 0,
   "LastUpdate": "1719840000"
+},
+{
+  "Author": "XeldarAlz,Tabris",
+  "Name": "Auto Daily Tribes CN",
+  "Punchline": "自动完成每日蛮族任务",
+  "Description": "自动帮你完成每日盟族任务：勾选蛮族，插件搞定剩下的事。国服汉化版。",
+  "InternalName": "AutoDailyTribes",
+  "AssemblyVersion": "1.1.0.0",
+  "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Beast Tribes",
+    "Auto Daily Tribes",
+    "Daily Quests",
+    "Automation",
+    "国服",
+    "汉化"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Dragonw233/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
+  "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDailyTribes/latest.zip",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDailyTribes/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDailyTribes/latest.zip",
+  "DownloadCount": 0,
+  "LastUpdate": "1783187086"
 }
 ]
