@@ -1,21 +1,25 @@
 {
-  "Author": "Liza Carvelli",
+  "Author": "liza, qstxiv, & various contributors, decorwdyun(汉化)",
   "Name": "Questionable",
   "InternalName": "Questionable",
-  "AssemblyVersion": "3.13",
-  "Description": "请确保你安装并启用了这三个插件！！vnavmesh, TextAdvance, Lifestream",
+  "AssemblyVersion": "15.306.1.49",
+  "Description": "一个小型自动任务插件，会在可行的情况下自动完成任务。它会使用 vnavmesh 自动前往任务目标点，并尽量自动完成沿途步骤（不包含副本、单人任务和战斗）。\n\n并非所有任务都受支持，请查看 Discord 或 Git 仓库获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://git.carvel.li/liza/Questionable",
+  "RepoUrl": "https://github.com/PunishXIV/Questionable",
   "Tags": [
+    "qst",
     "quests",
-    "msq"
+    "msq",
+    "Questionable",
+    "任务",
+    "主线任务"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://plugins.carvel.li/icons/Questionable.png",
-  "Punchline": "A tiny quest helper plugin.",
+  "IconUrl": "https://puni.sh/api/plugins/icon/94",
+  "Punchline": "一个小型自动任务插件。",
   "AcceptsFeedback": true
 }
