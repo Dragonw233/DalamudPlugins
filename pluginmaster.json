@@ -200,5 +200,31 @@
     "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDailyTribes/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1783187086"
+  },
+  {
+    "Author": "QiongHHHZZZ（岚玉棠改）",
+    "Name": "AllHud",
+    "Punchline": "定制 HUD 插件。",
+    "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块，支持调整显示内容、位置与缩放。",
+    "InternalName": "AllHud",
+    "AssemblyVersion": "0.1.0.0",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "hud",
+      "overlay",
+      "ui",
+      "info",
+      "party",
+      "combat"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AllHud/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AllHud/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AllHud/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1787061859"
   }
 ]
