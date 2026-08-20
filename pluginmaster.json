@@ -179,7 +179,7 @@
     "Punchline": "自动完成每日蛮族任务",
     "Description": "自动帮你完成每日盟族任务：勾选蛮族，插件搞定剩下的事。国服汉化版。",
     "InternalName": "AutoDailyTribes",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.3.0.0",
     "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
     "ApplicableVersion": "any",
     "Tags": [
@@ -199,7 +199,7 @@
     "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDailyTribes/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AutoDailyTribes/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1783187086"
+    "LastUpdate": "1787244522"
   },
   {
     "Author": "QiongHHHZZZ（岚玉棠改）",
