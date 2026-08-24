@@ -1,0 +1,31 @@
+{
+  "Author": "The Combat Reborn Team, Dragonw233",
+  "Name": "Rotation Solver Reborn 汉化版",
+  "InternalName": "RotationSolver",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "逐帧分析战斗信息并选择合适的技能，可辅助高亮或执行技能。本版适配国服 Dalamud API 15，并采用 i18n 方式完成简体中文本地化。主要面向日常战斗，不会自动处理高难副本机制。",
+  "Changelog": "首次发布 API 15 i18n 汉化版。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Dragonw233/RotationSolverReborn",
+  "Tags": [
+    "combat",
+    "rotation",
+    "solver",
+    "pve",
+    "pvp",
+    "国服",
+    "汉化"
+  ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IsTestingExclusive": false,
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+  "Punchline": "逐帧分析战斗信息并选择最佳技能。",
+  "AcceptsFeedback": true
+}

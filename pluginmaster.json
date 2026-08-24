@@ -226,5 +226,35 @@
     "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/AllHud/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1787061859"
+  },
+  {
+    "Author": "The Combat Reborn Team, Dragonw233",
+    "Name": "Rotation Solver Reborn 汉化版",
+    "Punchline": "逐帧分析战斗信息并选择最佳技能。",
+    "Description": "逐帧分析战斗信息并选择合适的技能，可辅助高亮或执行技能。本版适配国服 Dalamud API 15，并采用 i18n 方式完成简体中文本地化。主要面向日常战斗，不会自动处理高难副本机制。",
+    "Changelog": "首次发布 API 15 i18n 汉化版。",
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Dragonw233/RotationSolverReborn",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "combat",
+      "rotation",
+      "solver",
+      "pve",
+      "pvp",
+      "国服",
+      "汉化"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+    "DownloadLinkInstall": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1787571972"
   }
 ]
