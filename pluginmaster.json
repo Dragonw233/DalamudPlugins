@@ -228,18 +228,18 @@
     "LastUpdate": "1787061859"
   },
   {
-    "Author": "The Combat Reborn Team, Dragonw233",
+    "Author": "The Combat Reborn Team，Dragonw233（汉化）",
     "Name": "Rotation Solver Reborn 汉化版",
-    "Punchline": "逐帧分析战斗信息并选择最佳技能。",
-    "Description": "逐帧分析战斗信息并选择合适的技能，可辅助高亮或执行技能。本版适配国服 Dalamud API 15，并采用 i18n 方式完成简体中文本地化。主要面向日常战斗，不会自动处理高难副本机制。",
-    "Changelog": "首次发布 API 15 i18n 汉化版。",
+    "Punchline": "在每一帧分析 PvE 战斗信息并找到最佳动作。",
+    "Description": "在每一帧分析 PvE 战斗信息并找到最佳动作。\n\n包含单帧战斗中几乎所有可用信息，包括所有队员状态、敌方目标状态、技能冷却、角色 MP 和 HP、角色位置、敌方读条状态、连击状态、战斗持续时间、玩家等级等。\n随后会在热键栏中高亮最佳动作，或帮助您点击它。\n此插件专为一般战斗设计，不适用于零式或绝本内容，请谨慎使用。\n\n国服适配与简体中文本地化版本。",
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "7.5.5.39",
     "RepoUrl": "https://github.com/Dragonw233/RotationSolverReborn",
     "ApplicableVersion": "any",
     "Tags": [
       "combat",
       "rotation",
+      "auto",
       "solver",
       "pve",
       "pvp",
@@ -255,6 +255,6 @@
     "DownloadLinkTesting": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Dragonw233/DalamudPlugins/raw/main/plugins/RotationSolver/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1787571972"
+    "LastUpdate": "1788518989"
   }
 ]
