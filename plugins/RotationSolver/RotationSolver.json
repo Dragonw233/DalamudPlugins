@@ -2,7 +2,7 @@
   "Author": "The Combat Reborn Team，Dragonw233（汉化）",
   "Name": "Rotation Solver Reborn 汉化版",
   "InternalName": "RotationSolver",
-  "AssemblyVersion": "7.5.5.40",
+  "AssemblyVersion": "7.5.6.19",
   "Description": "在每一帧分析 PvE 战斗信息并找到最佳动作。\n\n包含单帧战斗中几乎所有可用信息，包括所有队员状态、敌方目标状态、技能冷却、角色 MP 和 HP、角色位置、敌方读条状态、连击状态、战斗持续时间、玩家等级等。\n随后会在热键栏中高亮最佳动作，或帮助您点击它。\n此插件专为一般战斗设计，不适用于零式或绝本内容，请谨慎使用。\n\n国服适配与简体中文本地化版本。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Dragonw233/RotationSolverReborn",
